@@ -1,3 +1,32 @@
+XPERIENCE
+=========
+
+This repo only supported for montblanc devices :P maybe later add others devices :)
+Optimized for locked bootloaders :P
+
+
+
+Getting Started
+---------------
+
+To get started with Android/CyanogenMod, you'll need to get
+familiar with [Git and Repo](http://source.android.com/download/using-repo).
+
+To initialize your local repository using the CyanogenMod trees, use a command like this:
+
+    repo init -u git://github.com/XPerience-montblanc/android.git -b ics
+
+Then to sync up:
+
+    repo sync
+
+
+
+
+
+
+
+
 CyanogenMod
 ===========
 
