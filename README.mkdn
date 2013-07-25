@@ -20,6 +20,10 @@ o
 
 make -j1 bacon
 
+or
+
+brunch <device>
+
 
 Devices supported
 =================
