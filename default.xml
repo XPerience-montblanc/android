@@ -279,6 +279,8 @@
   <project name="XPerience-montblanc/android_device_sony_kumquat" path="device/sony/kumquat" remote="github" revision="ics" />
   <project name="XPerience-montblanc/android_device_sony_nypon" path="device/sony/nypon" remote="github" revision="ics" />
   <project name="XPerience-montblanc/android_device_sony_pepper" path="device/sony/pepper" remote="github" revision="ics" />
+  <project name="XPerience-montblanc/android_vendor_sony_lotus" path="vendor/sony/lotus" remote="github" revision="ics" />
+  
 
   <project path="android" name="CyanogenMod/android" />
 </manifest>
