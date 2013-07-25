@@ -4,6 +4,36 @@ XPERIENCE
 This repo only supported for montblanc devices :P maybe later add others devices :)
 Optimized for locked bootloaders :P
 
+To launch use:
+
+
+     build/envsetup.sh 
+    
+    lunch cm_<Device>-eng
+
+
+to compile use:
+
+brunch cm_<device>-eng
+
+o 
+
+make -j1 bacon
+
+
+Devices supported
+=================
+
+XPERIA GO = lotus
+XPERIA P = nypon
+XPERIA U = kumquat
+XPERIA sola = pepper
+
+to lunch use ejem: lunch cm_lotus-eng
+
+
+
+
 
 
 Getting Started
